@@ -6,7 +6,7 @@
 [ ![Test][] ][download]
 
 <p align="center">
-  <a href="https://forthebadge.com/images/badges/built-with-love.svg">
+  <a href="https://forthebadge.com">
      <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   </a>
   <a href="https://forthebadge.com">
