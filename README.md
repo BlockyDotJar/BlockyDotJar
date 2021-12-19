@@ -40,6 +40,6 @@
     </a>
 </p>
 
-```py
+```yml
 Test: test
 ```
