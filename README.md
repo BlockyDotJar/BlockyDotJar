@@ -10,16 +10,16 @@
      <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   </a>
   <a href="https://forthebadge.com">
-      <img src="https://forthebadge.com/images/badges/check-it-out.svg)"/>
+      <img src="https://forthebadge.com/images/badges/check-it-out.svg"/>
   </a>
   <a href="https://forthebadge.com">
-      <img src="https://forthebadge.com/images/badges/made-with-java.svg)"/>
+      <img src="https://forthebadge.com/images/badges/made-with-java.svg"/>
   </a>
   <a href="https://forthebadge.com">
-      <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)"/>
+      <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
   </a>
   <a href="https://forthebadge.com">
-      <img src="https://forthebadge.com/images/badges/uses-git.svg)"/>
+      <img src="https://forthebadge.com/images/badges/uses-git.svg"/>
   </a>
 </p>
 
