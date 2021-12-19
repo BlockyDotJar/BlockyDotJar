@@ -40,6 +40,6 @@
     </a>
 </p>
 
-```
-- Test
+```yml
+Test: test
 ```
