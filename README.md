@@ -2,6 +2,8 @@
   <h2 align="center">Hello there <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
 </p>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=BlockyDotJar alt=BlockyDotJar> </p>
+
 <p align="center">
   <a href="https://forthebadge.com">
      <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
@@ -35,3 +37,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=algolia"/>
     </a>
 </p>
+
+```
+- Test
+```
