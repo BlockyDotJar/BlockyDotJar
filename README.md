@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://forthebadge.com/images/badges/built-with-love.svg">
+     <img src="https://forthebadge.com/images/badges/check-it-out.svg)"/>
   </a>
   <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/check-it-out.svg)"/>
