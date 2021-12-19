@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Test]: https://img.shields.io/badge/Testsss-Testoo-%2368b37c&style=for-the-badge
+[Test]: https://img.shields.io/badge/Testsss-Testoo-%2368b37c
 [download]: #download
 
 [ ![Test][] ][download]
