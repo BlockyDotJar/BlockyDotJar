@@ -5,7 +5,7 @@
 
 [ ![Test][] ][download]
 
-[![forthebadge]([![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com))](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
