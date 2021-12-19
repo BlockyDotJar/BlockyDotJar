@@ -3,7 +3,7 @@
 [Test]: https://img.shields.io/badge/Testsss-Testoo-%2368b37c&style=for-the-badge
 [download]: #download
 
-[ ![version][] ][download]
+[ ![Test][] ][download]
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
