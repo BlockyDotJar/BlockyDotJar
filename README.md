@@ -41,5 +41,7 @@
 </p>
 
 ```yml
-Test: test
+Age: 15;
+Languages: Java, JS (Java Script), Bash, Julia, HTML, CSS;
+Favorite Language: Java;
 ```
