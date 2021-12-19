@@ -15,8 +15,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true"/>
     </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=algolia"/>
+    </a>
   </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
