@@ -1,9 +1,6 @@
-### Hi there 👋
-
-[Test]: https://img.shields.io/badge/Testsss-Testoo-%2368b37c
-[download]: #download
-
-[ ![Test][] ][download]
+<p align="center">
+  <b>Hello there 👋</b>
+</p>
 
 <p align="center">
   <a href="https://forthebadge.com">
