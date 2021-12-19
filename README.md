@@ -18,9 +18,6 @@
   <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
   </a>
-  <a href="https://forthebadge.com">
-      <img src="https://forthebadge.com/images/badges/uses-git.svg"/>
-  </a>
 </p>
 
 <p align="center">
