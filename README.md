@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
