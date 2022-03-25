@@ -42,7 +42,7 @@
 
 ```yml
 Age: 15;
-Languages: Java, JS (Java Script), Bash, Julia, HTML, CSS;
+Languages: Java, Bash, HTML, CSS;
 Favorite Language: Java;
 Pronouns: Er, He, Him;
 ```
