@@ -33,7 +33,11 @@ On my GitHub page you will find some repositories, which are most written in Jav
 <br><br>
 `Blocky.jar ツ#8117 (731080543503908895)` 
 <br>
-<img src="https://discord.c99.nl/widget/theme-1/731080543503908895.png">
+<p>
+  <a href="https://discord.com/users/731080543503908895">
+    <img src="https://discord.c99.nl/widget/theme-1/731080543503908895.png">
+  </a>
+</p>
 <br><br>
 or, if you want, you can [join my discord](https://discord.com/AMB32p62) too :D
 <br>
@@ -62,11 +66,11 @@ or, if you want, you can [join my discord](https://discord.com/AMB32p62) too :D
 <br>
 
 <p>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/BlockyDotJar">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=algolia"/>
     </a>
   <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/BlockyDotJar">
       <img src="https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true"/>
     </a>
 </p>
