@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center">Hello there <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
+  <h2 align="center">Hello there <img src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/wave.gif" width="29px"></h2>
 </p>
 
 <p align="center" >  
@@ -39,7 +39,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
   </a>
 </p>
 <br><br>
-or, if you want, you can [join my discord](https://discord.com/AMB32p62) too :D
+or, if you want, you can [join my discord](https://discord.gg/AMB32p62) too :D
 <br>
 
 ### Languages
