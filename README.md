@@ -48,6 +48,9 @@ or, if you want, you can [join my discord](https://discord.gg/AMB32p62) too :D
     <a href="https://java.com/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png"/>
     </a>
+    <a href="https://java.com/">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/python.png"/>
+    </a>
     <a href="https://www.gnu.org/software/bash/">
        <img width="120" height="80" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/bash.png"/>
     </a>
@@ -73,20 +76,26 @@ or, if you want, you can [join my discord](https://discord.gg/AMB32p62) too :D
     </a>
 </p>
 
-### Tools & Software
+### Software and Tools
 
 <p>
     <a href="https://www.jetbrains.com/de-de/idea/">
-      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/tree/main/assets/tools%20%26%20software/intellij.png"/>
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/intellij.png"/>
     </a>
-    <a href="https://github.com/Rapptz/discord.py">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
+    <a href="https://www.jetbrains.com/de-de/pycharm/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/pycharm.png"/>
     </a>
-    <a href="https://github.com/Rapptz/discord.py">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
+    <a href="https://code.visualstudio.com/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/vsc.png"/>
     </a>
-    <a href="https://github.com/Rapptz/discord.py">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
+    <a href="https://git-scm.com/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/git.png"/>
+    </a>
+    <a href="https://maven.apache.org/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/maven.png"/>
+    </a>
+    <a href="https://www.linux.org/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/linux.png"/>
     </a>
 </p>
 
