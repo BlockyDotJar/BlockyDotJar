@@ -25,7 +25,7 @@ My name is Dominic and i am a hobby developer :)
 <br>
 On my GitHub page you will find some repositories, which are most written in Java, JS (JavaScript) or Python. (but maby also other languages like bash)
 <br><br>
-• 😄 Pronouns: `he`/`him`
+• 😄 Pronouns: `er`/`he`/`him`
 <br>
 • 🔭 I’m currently working on an extension of the JDA (Java Discord API): [JDA-Commons](https://github.com/BlockyDotJar/JDA-Commons)
 <br>
@@ -39,14 +39,34 @@ or, if you want, you can [join my discord](https://discord.com/AMB32p62) too :D
 <br>
 
 ### Languages
-<br>
 
 <p>
     <a href="https://java.com/">
-      <img src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png)"/>
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+       <img width="120" height="80" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/bash.png"/>
+    </a>
+    <a href="https://www.w3.org/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/html.png"/>
+    </a>
+    <a href="https://www.w3.org/">
+       <img width="45" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/css.png"/>
+    </a>
+    <a href="https://www.javascript.com/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/js.png"/>
+    </a>
+</p>
+
+### Stats
+<br>
+
+<p>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=algolia"/>
     </a>
   <br>
-    <a href="https://www.gnu.org/software/bash/">
-       <img src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/bash.png)"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true"/>
     </a>
 </p>
