@@ -38,7 +38,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
     <img src="https://discord.c99.nl/widget/theme-1/731080543503908895.png">
   </a>
 </p>
-<br><br>
+
 or, if you want, you can [join my discord](https://discord.gg/AMB32p62) too :D
 <br>
 
@@ -59,6 +59,34 @@ or, if you want, you can [join my discord](https://discord.gg/AMB32p62) too :D
     </a>
     <a href="https://www.javascript.com/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/js.png"/>
+    </a>
+</p>
+
+### Frameworks
+
+<p>
+    <a href="https://github.com/DV8FromTheWorld/JDA">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/jda.png"/>
+    </a>
+    <a href="https://github.com/Rapptz/discord.py">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
+    </a>
+</p>
+
+### Tools & Software
+
+<p>
+    <a href="https://www.jetbrains.com/de-de/idea/">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/tree/main/assets/tools%20%26%20software/intellij.png"/>
+    </a>
+    <a href="https://github.com/Rapptz/discord.py">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
+    </a>
+    <a href="https://github.com/Rapptz/discord.py">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
+    </a>
+    <a href="https://github.com/Rapptz/discord.py">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
     </a>
 </p>
 
