@@ -99,8 +99,13 @@ or, if you want, you can [join my discord](https://discord.gg/AMB32p62) too :D
     </a>
 </p>
 
+### Github Trophys
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=BlockyDotJar&column=8&theme=discord&no-frame=true&no-bg=true"/>
+</a>
+
 ### Stats
-<br>
 
 <p>
    <a href="https://github.com/BlockyDotJar">
