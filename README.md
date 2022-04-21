@@ -39,7 +39,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
   </a>
 </p>
 
-or, if you want, you can [join my discord](https://discord.gg/AMB32p62) too :D
+or, if you want, you can [join my discord](https://discord.gg/FnGFbzCw2r) too :D
 <br>
 
 ### Languages
