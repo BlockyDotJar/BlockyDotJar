@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center">Hello there <img src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/wave.gif" width="29px"></h2>
+  <h2 align="center">Hello there <img width="29px" height="29px" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/wave.gif"></h2>
 </p>
 
 <p align="center" >  
