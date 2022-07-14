@@ -48,20 +48,14 @@ or, if you want, you can [join my discord](https://discord.gg/FnGFbzCw2r) too :D
     <a href="https://java.com/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png"/>
     </a>
-    <a href="https://java.com/">
-      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/python.png"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/">
-       <img width="120" height="80" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/bash.png"/>
+    <a href="https://www.javascript.com/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/js.png"/>
     </a>
     <a href="https://www.w3.org/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/html.png"/>
     </a>
     <a href="https://www.w3.org/">
        <img width="45" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/css.png"/>
-    </a>
-    <a href="https://www.javascript.com/">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/js.png"/>
     </a>
 </p>
 
@@ -71,8 +65,14 @@ or, if you want, you can [join my discord](https://discord.gg/FnGFbzCw2r) too :D
     <a href="https://github.com/DV8FromTheWorld/JDA">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/jda.png"/>
     </a>
-    <a href="https://github.com/Rapptz/discord.py">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/discord-dot-py.png"/>
+    <a href="https://github.com/orgs/qos-ch/repositories">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/slf4j-with-logback.png"/>
+    </a>
+    <a href="https://github.com/FasterXML/jackson">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/json.png"/>
+    </a>
+    <a href="https://github.com/orgs/square/repositories">
+       <img width="100" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/square.png"/>
     </a>
 </p>
 
@@ -81,12 +81,6 @@ or, if you want, you can [join my discord](https://discord.gg/FnGFbzCw2r) too :D
 <p>
     <a href="https://www.jetbrains.com/de-de/idea/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/intellij.png"/>
-    </a>
-    <a href="https://www.jetbrains.com/de-de/pycharm/">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/pycharm.png"/>
-    </a>
-    <a href="https://code.visualstudio.com/">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/vsc.png"/>
     </a>
     <a href="https://git-scm.com/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/git.png"/>
