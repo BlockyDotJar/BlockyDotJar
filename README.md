@@ -39,7 +39,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
   </a>
 </p>
 
-or, if you want, you can [join my discord](https://discord.gg/FnGFbzCw2r) too :D
+If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
 <br>
 
 ### Languages
@@ -95,18 +95,18 @@ or, if you want, you can [join my discord](https://discord.gg/FnGFbzCw2r) too :D
 
 ### Github Trophys
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/BlockyDotJar">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=BlockyDotJar&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
 ### Stats
 
 <p>
-   <a href="https://github.com/BlockyDotJar">
+   <a href="https://github.com/BlockyDotJar?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyDotJar&theme=algolia"/>
     </a>
   <br>
-    <a href="https://github.com/BlockyDotJar">
+    <a href="https://github.com/BlockyDotJar?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true"/>
     </a>
 </p>
