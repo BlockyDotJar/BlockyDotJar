@@ -23,7 +23,7 @@ Hello nice to see you here!
 <br>
 My name is Dominic and i am a hobby developer :)
 <br>
-On my GitHub page you will find some repositories, which are most written in Java, JS (JavaScript) or Python. (but maybe also other languages like bash)
+On my GitHub page you will find some repositories, which are most written in Java, Kotlin or JS (JavaScript).
 <br><br>
 • 😄 Pronouns: `er`/`he`/`him`
 <br>
@@ -47,6 +47,9 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
 <p>
     <a href="https://java.com/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png"/>
+    </a>
+    <a href="https://kotlinlang.org/">
+      <img width="50" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/kotlin.png"/>
     </a>
     <a href="https://www.javascript.com/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/js.png"/>
