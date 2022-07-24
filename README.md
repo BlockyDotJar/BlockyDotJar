@@ -29,7 +29,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
 <br>
 • 🔭 I’m currently working on a [Tixte](https://tixte.com) API wrapper for Java: [Tixte4J](https://github.com/BlockyDotJar/Tixte-Java-Library)
 <br>
-• 📫 How to reach me: If you have any questions, just contact via my Discord:
+• 📫 How to reach me: If you have any question, just contact me via Discord:
 <br><br>
 `Blocky.jar ツ#8117 (731080543503908895)` 
 <br>
