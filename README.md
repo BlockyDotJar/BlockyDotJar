@@ -48,11 +48,8 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
     <a href="https://java.com/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png"/>
     </a>
-    <a href="https://kotlinlang.org/">
-      <img width="50" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/kotlin.png"/>
-    </a>
-    <a href="https://www.javascript.com/">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/js.png"/>
+    <a href="https://rust-lang.org/">
+      <img width="50" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/rust.png"/>
     </a>
     <a href="https://www.w3.org/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/html.png"/>
