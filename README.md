@@ -49,7 +49,7 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png"/>
     </a>
     <a href="https://rust-lang.org/">
-      <img width="50" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/rust.png"/>
+      <img width="75" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/rust.png"/>
     </a>
     <a href="https://www.w3.org/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/html.png"/>
