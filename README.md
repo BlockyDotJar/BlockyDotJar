@@ -23,7 +23,7 @@ Hello nice to see you here!
 <br>
 My name is Dominic and i am a hobby developer :)
 <br>
-On my GitHub page you will find some repositories, which are most written in Java, Kotlin or JS (JavaScript).
+On my GitHub page you will find some repositories, which are most written in Java or Rust.
 <br><br>
 • 😄 Pronouns: `er`/`he`/`him`
 <br>
