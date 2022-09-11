@@ -125,3 +125,13 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
       <img src="https://github-readme-stats.vercel.app/api?username=BlockyDotJar&theme=algolia&show_icons=true"/>
     </a>
 </p>
+
+### The truth
+
+<p>
+   <a href="https://github.com/BlockyDotJar?tab=repositories">
+      <img width="400" height="400" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/notkotlin_java.jpg"/>
+    </a>
+</p>
+
+
