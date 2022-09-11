@@ -80,6 +80,15 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
     <a href="https://github.com/orgs/square/repositories">
        <img width="100" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/square.png"/>
     </a>
+    <a href="https://apache.org">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/apache.png"/>
+    </a>
+    <a href="https://jetbrains.org">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/jetbrains.png"/>
+    </a>
+    <a href="https://www.google.com/">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/google.png"/>
+    </a>
 </p>
 
 ### Software and Tools
