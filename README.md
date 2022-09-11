@@ -48,6 +48,9 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
     <a href="https://java.com/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/java.png"/>
     </a>
+    <a href="https://www.markdownguide.org//">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/markdown.png"/>
+    </a>
     <a href="https://rust-lang.org/">
       <img width="75" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/rust.png"/>
     </a>
@@ -85,17 +88,17 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
     <a href="https://git-scm.com/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/git.png"/>
     </a>
-    <a href="https://maven.apache.org/">
+    <a href="https://gradle.org/">
        <img width="150" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/gradle.png"/>
     </a>
-    <a href="https://www.linux.org/">
+    <a href="https://www.microsoft.com/de-de/software-download/windows11">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/windows-11.png"/>
     </a>
 </p>
 
 ### Github Trophys
 
-<a href="https://github.com/BlockyDotJar">
+<a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=BlockyDotJar&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
 
