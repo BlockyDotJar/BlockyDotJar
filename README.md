@@ -86,10 +86,10 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/git.png"/>
     </a>
     <a href="https://maven.apache.org/">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/maven.png"/>
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/gradle.png"/>
     </a>
     <a href="https://www.linux.org/">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/linux.png"/>
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/windows-11.png"/>
     </a>
 </p>
 
