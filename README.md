@@ -23,11 +23,11 @@ Hello nice to see you here!
 <br>
 My name is Dominic and i am a hobby developer :)
 <br>
-On my GitHub page you will find some repositories, which are most written in Java or Rust.
+On my GitHub page you will find some repositories, which are most written in Java, Kotlin or Rust.
 <br><br>
 • 😄 Pronouns: `er`/`he`/`him`
 <br>
-• 🔭 I’m currently working on a [Tixte](https://tixte.com) API wrapper for Java: [Tixte4J](https://github.com/BlockyDotJar/Tixte-Java-Library)
+• 🔭 I’m currently working on nothing special
 <br>
 • 📫 How to reach me: If you have any question, just contact me via Discord:
 <br><br>
