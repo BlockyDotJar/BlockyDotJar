@@ -23,11 +23,11 @@ Hello nice to see you here!
 <br>
 My name is Dominic and i am a hobby developer :)
 <br>
-On my GitHub page you will find some repositories, which are most written in Java, Kotlin or Rust.
+On my GitHub page you will find some repositories, which are most written in Java, Kotlin, Rust or TypeScript.
 <br><br>
 • 😄 Pronouns: `er`/`he`/`him`
 <br>
-• 🔭 I’m currently working on nothing special
+• 🔭 I’m currently working on my TypeScript skills.
 <br>
 • 📫 How to reach me: If you have any question, just contact me via Discord:
 <br><br>
@@ -56,6 +56,9 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
     </a>
     <a href="https://rust-lang.org/">
       <img width="75" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/rust.png"/>
+    </a>
+    <a href="https://www.typescriptlang.org/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/typescript.png"/>
     </a>
     <a href="https://www.w3.org/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/html.png"/>
@@ -97,11 +100,17 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
     <a href="https://www.jetbrains.com/de-de/idea/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/intellij.png"/>
     </a>
+    <a href="https://code.visualstudio.com/">
+      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/vscode.png"/>
+    </a>
     <a href="https://git-scm.com/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/git.png"/>
     </a>
     <a href="https://gradle.org/">
        <img width="150" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/gradle.png"/>
+    </a>
+    <a href="https://www.npmjs.com/">
+       <img width="150" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/npm.png"/>
     </a>
     <a href="https://www.microsoft.com/de-de/software-download/windows11">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/windows-11.png"/>
