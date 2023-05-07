@@ -27,7 +27,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
 <br><br>
 • 😄 Pronouns: `er`/`he`/`him`
 <br>
-• 🔭 I’m currently working on my TypeScript skills.
+• 🔭 I’m currently working on many things: `DonkBot`, a discord bot for notifications and Twitch modlookup, a rework of my first game `SpaceAdventures` and `v2` of `tixte4j`
 <br>
 • 📫 How to reach me: If you have any question, just contact me via Discord:
 <br><br>
