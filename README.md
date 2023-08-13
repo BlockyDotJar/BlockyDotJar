@@ -6,18 +6,6 @@
   <img src=https://komarev.com/ghpvc/?username=BlockyDotJar alt=BlockyDotJar> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/BlockyDotJar/JDA-Commons">
-     <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  </a>
-    <a href="https://java.com/">
-      <img src="https://forthebadge.com/images/badges/made-with-java.svg"/>
-  </a>
-    <a href="https://git-scm.com/">
-      <img src="https://forthebadge.com/images/badges/uses-git.svg"/>
-  </a>
-</p>
-
 ### About me
 Hello nice to see you here!
 <br>
