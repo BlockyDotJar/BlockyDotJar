@@ -17,7 +17,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
 <br>
 • 📫 How to reach me: If you have any question, just contact me via Discord:
 <br><br>
-`Blocky.jar ツ#8117 (731080543503908895)` 
+`blockyjar (731080543503908895)` 
 <br>
 <p>
   <a href="https://discord.com/users/731080543503908895">
