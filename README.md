@@ -11,11 +11,9 @@ Hello nice to see you here!
 <br>
 My name is Dominic and i am a hobby developer :)
 <br>
-On my GitHub page you will find some repositories, which are most written in Java, Kotlin, Rust or TypeScript.
+On my GitHub page you will find some repositories, which are most written in Java, Kotlin, Rust or JavaScript.
 <br><br>
-• 😄 Pronouns: `er`/`he`/`him`
-<br>
-• 🔭 I’m currently working on many things: `DonkBot`, `SpaceAdventures` and `Tixte4J v2`
+• 🔭 I’m currently working on: `VorteX` and [Advent of Code 2023](https://adventofcode.com/2023) Solutions
 <br>
 • 📫 How to reach me: If you have any question, just contact me via Discord:
 <br><br>
@@ -29,6 +27,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
 
 If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
 <br>
+You can also reach me [in my Twitch chat](https://www.twitch.tv/blockydotjar).
 
 ### Languages
 
@@ -45,8 +44,8 @@ If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
     <a href="https://rust-lang.org/">
       <img width="75" height="50" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/rust.png"/>
     </a>
-    <a href="https://www.typescriptlang.org/">
-       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/typescript.png"/>
+    <a href="https://www.javascript.com/">
+       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/javascript.png"/>
     </a>
     <a href="https://www.w3.org/">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/languages/html.png"/>
