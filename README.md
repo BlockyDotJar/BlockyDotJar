@@ -13,7 +13,6 @@ My name is Dominic and i am a hobby developer :)
 <br>
 On my GitHub page you will find some repositories, which are most written in Java, Kotlin, Rust or JavaScript.
 <br><br>
-• 🔭 I’m currently working on: `VorteX` and [Advent of Code 2023](https://adventofcode.com/2023) Solutions
 <br>
 • 📫 How to reach me: If you have any question, just contact me via Discord:
 <br><br>
