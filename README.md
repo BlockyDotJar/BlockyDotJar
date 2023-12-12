@@ -96,9 +96,6 @@ You can also reach me [in my Twitch chat](https://www.twitch.tv/blockydotjar).
     <a href="https://gradle.org/">
        <img width="150" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/gradle.png"/>
     </a>
-    <a href="https://www.npmjs.com/">
-       <img width="150" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/npm.png"/>
-    </a>
     <a href="https://www.microsoft.com/de-de/software-download/windows11">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/software-and-tools/windows-11.png"/>
     </a>
