@@ -58,9 +58,6 @@ You can also reach me [in my Twitch chat](https://www.twitch.tv/blockydotjar).
 ### Frameworks
 
 <p>
-    <a href="https://github.com/DV8FromTheWorld/JDA">
-      <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/jda.png"/>
-    </a>
     <a href="https://github.com/orgs/qos-ch/repositories">
        <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/slf4j-with-logback.png"/>
     </a>
@@ -79,14 +76,8 @@ You can also reach me [in my Twitch chat](https://www.twitch.tv/blockydotjar).
     <a href="https://www.google.com/">
       <img width="60" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/google.png"/>
     </a>
-    <a href="https://twitch4j.github.io/">
-      <img width="80" height="80" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/twitch4j.svg"/>
-    </a>
     <a href="https://openjfx.io/">
       <img width="120" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/javafx.png"/>
-    </a>
-    <a href="https://almasb.github.io/FXGL/">
-      <img width="210" height="60" src="https://github.com/BlockyDotJar/BlockyDotJar/blob/main/assets/frameworks/fxgl.png"/>
     </a>
 </p>
 
