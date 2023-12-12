@@ -8,16 +8,13 @@
 
 ### About me
 Hello nice to see you here!
-<br>
-My name is Dominic and i am a hobby developer :)
-<br>
-On my GitHub page you will find some repositories, which are most written in Java, Kotlin, Rust or JavaScript.
-<br><br>
-<br>
+<br>My name is Dominic and i am a hobby developer :)
+<br>On my GitHub page you will find some repositories, which are most written in Java, Kotlin, Rust or JavaScript.
+
 • 📫 How to reach me: If you have any question, just contact me via Discord:
-<br><br>
+
 `blockyjar (731080543503908895)` 
-<br>
+
 <p>
   <a href="https://discord.com/users/731080543503908895">
     <img src="https://discord.c99.nl/widget/theme-1/731080543503908895.png">
@@ -25,8 +22,7 @@ On my GitHub page you will find some repositories, which are most written in Jav
 </p>
 
 If you want, you can also [join my discord](https://discord.gg/FnGFbzCw2r) :D
-<br>
-You can also reach me [in my Twitch chat](https://www.twitch.tv/blockydotjar).
+<br>You can also reach me [in my Twitch chat](https://www.twitch.tv/blockydotjar).
 
 ### Languages
 
